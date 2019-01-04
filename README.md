@@ -28,3 +28,5 @@ The paper will appear in `chi-2019-template` as `manuscript.pdf`. Use
 The file `manuscript.tex` contains the skeleton of the paper. Individual
 sections of the paper have been split off into their own `.tex` files
 like `introduction.tex`, `related-work.tex`, etc. Happy writing!
+
+## THE END
